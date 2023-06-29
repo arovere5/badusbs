@@ -1,0 +1,9 @@
+DELAY 2000
+
+GUI r
+
+DELAY 500
+
+STRING TASKKILL /IM RobloxPlayerBeta.exe /F
+
+ENTER
