@@ -1,0 +1,7 @@
+REM This will shutdown a windows computer.
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING shutdown /s
+ENTER
