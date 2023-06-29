@@ -1,0 +1,7 @@
+REM This program will close roblox within around 2.5 seconds
+
+DELAY 2000
+GUI r
+DELAY 500
+STRING TASKKILL /IM RobloxPlayerBeta.exe /F
+ENTER
